@@ -20,11 +20,11 @@
         "enabled" : true
      },
     "db_config" : {
-        "host": "dpg-crtbi9o8fa8c73ctu1qg-a",
+        "host": "dpg-cssioji3esus739nc6ag-a",
         "port": 5432,
-        "database": "meowcord_db",
-        "user": "m_e_o_w",
-        "password": "bxt0WTRFnHk7HeOKzeHIOhiyrjeeQNor"
+        "database": "meowcord_new_db",
+        "user": "meowmeow",
+        "password": "5r8SkyuJSt27CPIasrDbVkt38rjIAPQc"
     },
     "email_config" : {
         "fromAddress" : "support@example.com",
