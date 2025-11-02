@@ -1,15 +1,15 @@
 {
     "token_secret": "35c8...",
     "secure": true,
-    "base_url": "meowcord.onrender.com",
-    "gateway_url": "meowcord.onrender.com",
-    "signaling_server_url" : "meowcord.onrender.com",
+    "base_url": "mycord.onrender.com",
+    "gateway_url": "mycord.onrender.com",
+    "signaling_server_url" : "mycord.onrender.com",
     "port": 443,
     "ws_port": 443,
     "cache404s": false,
     "serve_selector": true,
-    "instance_name": "Meowcord",
-    "instance_description": "meow :3",
+    "instance_name": "Mycord",
+    "instance_description": "Mycord",
     "instance_flags": [],
     "cert_path": "",
     "key_path": "",
@@ -17,14 +17,14 @@
         "type" : "recaptchav2",
         "secret_key" : "6LeIxAcTAAAAAGG-vFI1TnRWxMZNFuojJ4WifJWe",
         "site_key" : "6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI",
-        "enabled" : true
+        "enabled" : false
      },
     "db_config" : {
-        "host": "dpg-cssioji3esus739nc6ag-a",
+        "host": "YpBTUKXvL5Taf9lAUXnFtjoydb6WpKAO@dpg-d43nm7ali9vc73daj2bg-a",
         "port": 5432,
-        "database": "meowcord_new_db",
-        "user": "meowmeow",
-        "password": "5r8SkyuJSt27CPIasrDbVkt38rjIAPQc"
+        "database": "mycord_new_db",
+        "user": "mycord",
+        "password": "YpBTUKXvL5Taf9lAUXnFtjoydb6WpKAO"
     },
     "email_config" : {
         "fromAddress" : "support@example.com",
@@ -33,7 +33,7 @@
     },
     "gcs_config" : { },
     "trusted_users" : [],
-    "custom_invite_url" : "meowcord.mew/invite",
+    "custom_invite_url" : "mycord.onrender.com/invite",
     "integration_config" : [],
     "ratelimit_config" : {
         "enabled" : false,
